@@ -11,7 +11,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>https://dzmohaipa.com/Jb2017/topanga.ipa</string>
+                    <string>http://192.168.0.52:8080/topanga.ipa</string>
                 </dict>
             </array>
             <key>metadata</key>
@@ -23,8 +23,7 @@
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>Jailbreak iOS 11 to iOS 11.1.2 by@cheesecakeufo uploaded by @mohadu313 don't forget to add me on Snapchat: snap u-cf
-</string>
+                <string>Jailbreak11</string>
             </dict>
         </dict>
     </array>
